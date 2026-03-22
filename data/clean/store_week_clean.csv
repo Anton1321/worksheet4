@@ -1,0 +1,401 @@
+week,store_id,store_type,region,promotion_flag,total_hours,avg_hourly_pay,weekly_sales,staffing_model
+2025-01-05,CB01,CBD,North,Yes,38.0,39.0,10056.0,Heavy
+2025-01-12,CB01,CBD,North,No,38.0,36.51,9786.0,Heavy
+2025-01-19,CB01,CBD,North,No,29.0,36.5,7888.0,Standard
+2025-01-26,CB01,CBD,North,No,37.0,37.0,10542.0,Heavy
+2025-02-02,CB01,CBD,North,No,40.0,37.0,11277.0,Heavy
+2025-02-09,CB01,CBD,North,No,29.87195399845736,37.52,9325.0,Standard
+2025-02-16,CB01,CBD,North,No,24.0,34.5,7474.0,Standard
+2025-02-23,CB01,CBD,North,No,38.0,38.0,9065.0,Heavy
+2025-03-02,CB01,CBD,North,No,30.0,36.5,9139.0,Standard
+2025-03-09,CB01,CBD,North,Yes,38.0,36.5,10218.0,Heavy
+2025-03-16,CB01,CBD,North,Yes,32.0,37.0,9116.0,Standard
+2025-03-23,CB01,CBD,North,No,26.08403178454842,37.3,7330.0,Standard
+2025-03-30,CB01,CBD,North,No,40.0,37.0,8792.0,Heavy
+2025-04-06,CB01,CBD,North,No,30.0,37.92,7636.0,Standard
+2025-04-13,CB01,CBD,North,No,30.0,36.0,7809.0,Standard
+2025-04-20,CB01,CBD,North,Yes,20.0,37.75,7812.0,Light
+2025-04-27,CB01,CBD,North,No,30.0,38.0,8251.0,Standard
+2025-05-04,CB01,CBD,North,No,24.0,37.5,7327.0,Standard
+2025-05-11,CB01,CBD,North,No,20.0,37.0,7703.0,Light
+2025-05-18,CB01,CBD,North,No,40.0,37.0,10212.0,Heavy
+2025-01-05,CB02,CBD,South,No,23.0,38.08,7448.0,Light
+2025-01-12,CB02,CBD,South,No,20.717665625961494,37.11,6320.0,Light
+2025-01-19,CB02,CBD,South,No,36.522457049083215,38.79,9724.0,Heavy
+2025-01-26,CB02,CBD,South,Yes,40.0,38.11,11221.0,Heavy
+2025-02-02,CB02,CBD,South,No,24.0,39.98,7627.0,Standard
+2025-02-09,CB02,CBD,South,No,38.0,37.66,9598.0,Heavy
+2025-02-16,CB02,CBD,South,No,24.0,39.5,8593.0,Standard
+2025-02-23,CB02,CBD,South,Yes,28.0,36.37,9157.0,Standard
+2025-03-02,CB02,CBD,South,No,35.0,38.48,8970.0,Heavy
+2025-03-09,CB02,CBD,South,Yes,37.0,35.5,10695.0,Heavy
+2025-03-16,CB02,CBD,South,Yes,36.86899371917445,38.72,10354.0,Heavy
+2025-03-23,CB02,CBD,South,No,20.0,36.5,6790.0,Light
+2025-03-30,CB02,CBD,South,No,30.0,39.0,7694.0,Standard
+2025-04-06,CB02,CBD,South,No,30.0,36.5,7381.0,Standard
+2025-04-13,CB02,CBD,South,No,30.0,35.5,8359.0,Standard
+2025-04-20,CB02,CBD,South,Yes,39.0,38.0,9428.0,Heavy
+2025-04-27,CB02,CBD,South,No,21.2006980262579,38.64,7810.0,Light
+2025-05-04,CB02,CBD,South,Yes,29.0,34.85,8258.0,Standard
+2025-05-11,CB02,CBD,South,No,38.0,37.74,10648.0,Heavy
+2025-05-18,CB02,CBD,South,Yes,20.0,37.5,7394.0,Light
+2025-01-05,CB03,CBD,East,No,20.0,37.08,7299.0,Light
+2025-01-12,CB03,CBD,East,No,38.0,37.0,10384.0,Heavy
+2025-01-19,CB03,CBD,East,No,19.131747050862696,39.0,9610.0,Light
+2025-01-26,CB03,CBD,East,No,36.0,36.0,10949.0,Heavy
+2025-02-02,CB03,CBD,East,No,38.0,36.95,10374.0,Heavy
+2025-02-09,CB03,CBD,East,Yes,21.59746271878615,38.0,9575.0,Light
+2025-02-16,CB03,CBD,East,No,24.0,37.5,8843.0,Standard
+2025-02-23,CB03,CBD,East,Yes,20.0,37.0,8338.0,Light
+2025-03-02,CB03,CBD,East,No,30.0,36.0,8497.0,Standard
+2025-03-09,CB03,CBD,East,Yes,22.0,37.5,7365.0,Light
+2025-03-16,CB03,CBD,East,No,23.0,39.5,6825.0,Light
+2025-03-23,CB03,CBD,East,No,38.0,38.89,9042.0,Heavy
+2025-03-30,CB03,CBD,East,Yes,22.0,37.5,8064.0,Light
+2025-04-06,CB03,CBD,East,Yes,31.55539348938045,38.55,9225.0,Standard
+2025-04-13,CB03,CBD,East,No,17.780065194222253,37.0,7122.0,Light
+2025-04-20,CB03,CBD,East,Yes,39.0,35.0,10201.0,Heavy
+2025-04-27,CB03,CBD,East,No,25.0,38.5,7823.0,Standard
+2025-05-04,CB03,CBD,East,No,39.330386142227326,39.04,10198.0,Heavy
+2025-05-11,CB03,CBD,East,Yes,21.0,36.5,8201.0,Light
+2025-05-18,CB03,CBD,East,No,38.0,39.0,9562.0,Heavy
+2025-01-05,CB04,CBD,West,No,38.110570991633594,36.5,8972.0,Heavy
+2025-01-12,CB04,CBD,West,No,37.0,38.64,8814.0,Heavy
+2025-01-19,CB04,CBD,West,Yes,20.0,38.5,8789.0,Light
+2025-01-26,CB04,CBD,West,Yes,38.0,37.0,9838.0,Heavy
+2025-02-02,CB04,CBD,West,No,20.0,39.5,7810.0,Light
+2025-02-09,CB04,CBD,West,No,20.116537344827698,37.46,6652.0,Light
+2025-02-16,CB04,CBD,West,No,30.0,39.0,8534.0,Standard
+2025-02-23,CB04,CBD,West,Yes,19.87351424842593,37.0,8164.0,Light
+2025-03-02,CB04,CBD,West,Yes,22.0,36.5,8028.0,Light
+2025-03-09,CB04,CBD,West,No,30.0,39.0,8539.0,Standard
+2025-03-16,CB04,CBD,West,No,38.0,37.0,8975.0,Heavy
+2025-03-23,CB04,CBD,West,No,39.0,38.79,9410.0,Heavy
+2025-03-30,CB04,CBD,West,No,36.0,36.46,9626.0,Heavy
+2025-04-06,CB04,CBD,West,No,38.0,37.5,9278.0,Heavy
+2025-04-13,CB04,CBD,West,No,20.0,36.5,6570.0,Light
+2025-04-20,CB04,CBD,West,No,25.0,38.17,7256.0,Standard
+2025-04-27,CB04,CBD,West,No,29.0,36.5,8322.0,Standard
+2025-05-04,CB04,CBD,West,Yes,39.134808065010546,38.5,9886.0,Heavy
+2025-05-11,CB04,CBD,West,Yes,29.815128415733938,37.94,8956.0,Standard
+2025-05-18,CB04,CBD,West,Yes,25.0,38.0,8110.0,Standard
+2025-01-05,CB05,CBD,North,No,24.573909639950255,36.0,7771.0,Standard
+2025-01-12,CB05,CBD,North,No,37.0,37.81,10160.0,Heavy
+2025-01-19,CB05,CBD,North,No,28.649594609588917,38.5,8906.0,Standard
+2025-01-26,CB05,CBD,North,No,24.073624234288676,37.5,8275.0,Standard
+2025-02-02,CB05,CBD,North,No,36.0,37.0,10930.0,Heavy
+2025-02-09,CB05,CBD,North,No,37.0,39.0,8874.0,Heavy
+2025-02-16,CB05,CBD,North,No,24.0,36.87,7668.0,Standard
+2025-02-23,CB05,CBD,North,No,38.0,38.5,9962.0,Heavy
+2025-03-02,CB05,CBD,North,No,41.0,38.5,10046.0,Heavy
+2025-03-09,CB05,CBD,North,Yes,38.0,38.0,11195.0,Heavy
+2025-03-16,CB05,CBD,North,Yes,20.0,37.0,8027.0,Light
+2025-03-23,CB05,CBD,North,No,39.0,36.51,9417.0,Heavy
+2025-03-30,CB05,CBD,North,No,17.0,39.5,6638.0,Light
+2025-04-06,CB05,CBD,North,No,38.0,37.5,7965.0,Heavy
+2025-04-13,CB05,CBD,North,Yes,18.55457078561771,37.21,7451.0,Light
+2025-04-20,CB05,CBD,North,No,24.0,37.43,7890.0,Standard
+2025-04-27,CB05,CBD,North,No,22.7228247803079,35.34,7128.0,Light
+2025-05-04,CB05,CBD,North,No,36.0,36.5,9616.0,Heavy
+2025-05-11,CB05,CBD,North,No,19.379108677477063,39.0,6449.0,Light
+2025-05-18,CB05,CBD,North,No,20.0,35.87,7276.0,Light
+2025-01-05,NE01,Neighbourhood,South,Yes,38.0,33.0,9015.0,Heavy
+2025-01-12,NE01,Neighbourhood,South,Yes,20.0,32.5,6737.0,Light
+2025-01-19,NE01,Neighbourhood,South,No,20.0,30.83,5867.0,Light
+2025-01-26,NE01,Neighbourhood,South,No,38.0,33.0,9503.0,Heavy
+2025-02-02,NE01,Neighbourhood,South,Yes,30.0,33.62,7328.0,Standard
+2025-02-09,NE01,Neighbourhood,South,No,31.0,33.0,7834.0,Standard
+2025-02-16,NE01,Neighbourhood,South,Yes,37.637921896196815,29.39,9358.0,Heavy
+2025-02-23,NE01,Neighbourhood,South,No,37.98184799071844,31.77,9019.0,Heavy
+2025-03-02,NE01,Neighbourhood,South,No,31.415331120432,31.6,7600.0,Standard
+2025-03-09,NE01,Neighbourhood,South,No,38.0,28.16,8945.0,Heavy
+2025-03-16,NE01,Neighbourhood,South,Yes,18.0,29.5,5975.0,Light
+2025-03-23,NE01,Neighbourhood,South,No,31.0,32.13,7316.0,Standard
+2025-03-30,NE01,Neighbourhood,South,No,20.0,34.2,4779.0,Light
+2025-04-06,NE01,Neighbourhood,South,Yes,38.506906812546724,31.46,8182.0,Heavy
+2025-04-13,NE01,Neighbourhood,South,No,20.0,31.0,5157.0,Light
+2025-04-20,NE01,Neighbourhood,South,No,37.7083289267964,32.0,8284.0,Heavy
+2025-04-27,NE01,Neighbourhood,South,Yes,39.15529041701417,29.5,8300.0,Heavy
+2025-05-04,NE01,Neighbourhood,South,No,17.43900945160885,31.86,5047.0,Light
+2025-05-11,NE01,Neighbourhood,South,No,20.323335967044667,31.03,6455.0,Light
+2025-05-18,NE01,Neighbourhood,South,No,38.01180308998184,30.18,8462.0,Heavy
+2025-01-05,NE02,Neighbourhood,East,No,36.0,28.5,8633.0,Heavy
+2025-01-12,NE02,Neighbourhood,East,No,36.0,32.0,8417.0,Heavy
+2025-01-19,NE02,Neighbourhood,East,No,21.0,32.99,5901.0,Light
+2025-01-26,NE02,Neighbourhood,East,No,23.0,31.0,6819.0,Light
+2025-02-02,NE02,Neighbourhood,East,No,31.0,29.61,8363.0,Standard
+2025-02-09,NE02,Neighbourhood,East,Yes,37.0,32.65,10070.0,Heavy
+2025-02-16,NE02,Neighbourhood,East,Yes,38.0,30.0,7948.0,Heavy
+2025-02-23,NE02,Neighbourhood,East,No,29.89654164855152,28.39,7674.0,Standard
+2025-03-02,NE02,Neighbourhood,East,No,30.0,30.5,7776.0,Standard
+2025-03-09,NE02,Neighbourhood,East,No,24.13205872445133,29.5,6503.0,Standard
+2025-03-16,NE02,Neighbourhood,East,No,35.0,32.5,8229.0,Heavy
+2025-03-23,NE02,Neighbourhood,East,Yes,30.0,32.0,7901.0,Standard
+2025-03-30,NE02,Neighbourhood,East,Yes,38.0,28.0,9494.0,Heavy
+2025-04-06,NE02,Neighbourhood,East,Yes,20.0,32.0,6342.0,Light
+2025-04-13,NE02,Neighbourhood,East,No,40.092343095746024,31.51,6793.0,Heavy
+2025-04-20,NE02,Neighbourhood,East,No,38.0,31.5,8411.0,Heavy
+2025-04-27,NE02,Neighbourhood,East,No,38.0,31.27,8599.0,Heavy
+2025-05-04,NE02,Neighbourhood,East,Yes,20.0,30.0,6794.0,Light
+2025-05-11,NE02,Neighbourhood,East,No,24.0,30.5,5898.0,Standard
+2025-05-18,NE02,Neighbourhood,East,Yes,24.0,31.5,7706.0,Standard
+2025-01-05,NE03,Neighbourhood,West,No,24.0,31.5,5969.0,Standard
+2025-01-12,NE03,Neighbourhood,West,No,24.0,32.0,6259.0,Standard
+2025-01-19,NE03,Neighbourhood,West,Yes,28.0,30.0,7792.0,Standard
+2025-01-26,NE03,Neighbourhood,West,No,25.0,31.4,6731.0,Standard
+2025-02-02,NE03,Neighbourhood,West,No,29.0,31.33,7249.0,Standard
+2025-02-09,NE03,Neighbourhood,West,Yes,38.79878442118616,29.82,8943.0,Heavy
+2025-02-16,NE03,Neighbourhood,West,Yes,22.906396327476404,31.0,7798.0,Light
+2025-02-23,NE03,Neighbourhood,West,No,40.0,30.06,8593.0,Heavy
+2025-03-02,NE03,Neighbourhood,West,No,21.822449859182466,29.0,6390.0,Light
+2025-03-09,NE03,Neighbourhood,West,No,39.89723441728788,28.73,8809.0,Heavy
+2025-03-16,NE03,Neighbourhood,West,No,24.0,30.08,6225.0,Standard
+2025-03-23,NE03,Neighbourhood,West,Yes,28.158222194294083,30.67,6936.0,Standard
+2025-03-30,NE03,Neighbourhood,West,No,38.0,30.7,7691.0,Heavy
+2025-04-06,NE03,Neighbourhood,West,Yes,40.0,33.61,8914.0,Heavy
+2025-04-13,NE03,Neighbourhood,West,Yes,38.0,31.0,8178.0,Heavy
+2025-04-20,NE03,Neighbourhood,West,No,31.0,29.19,6645.0,Standard
+2025-04-27,NE03,Neighbourhood,West,No,38.0,29.96,9016.0,Heavy
+2025-05-04,NE03,Neighbourhood,West,Yes,40.10691417471519,29.5,9020.0,Heavy
+2025-05-11,NE03,Neighbourhood,West,No,38.0,30.5,8006.0,Heavy
+2025-05-18,NE03,Neighbourhood,West,No,20.0,31.0,6388.0,Light
+2025-01-05,NE04,Neighbourhood,North,No,24.0,31.37,6491.0,Standard
+2025-01-12,NE04,Neighbourhood,North,No,37.0,30.41,8618.0,Heavy
+2025-01-19,NE04,Neighbourhood,North,No,37.0,30.5,8084.0,Heavy
+2025-01-26,NE04,Neighbourhood,North,No,23.0,33.0,6598.0,Light
+2025-02-02,NE04,Neighbourhood,North,Yes,21.0,30.63,7265.0,Light
+2025-02-09,NE04,Neighbourhood,North,No,40.0,31.0,8652.0,Heavy
+2025-02-16,NE04,Neighbourhood,North,No,38.0,32.0,8681.0,Heavy
+2025-02-23,NE04,Neighbourhood,North,No,24.342997288152493,29.94,6559.0,Standard
+2025-03-02,NE04,Neighbourhood,North,No,38.0,33.0,8690.0,Heavy
+2025-03-09,NE04,Neighbourhood,North,No,41.0,31.53,9328.0,Heavy
+2025-03-16,NE04,Neighbourhood,North,No,38.0,31.18,8783.0,Heavy
+2025-03-23,NE04,Neighbourhood,North,No,30.0,31.0,7321.0,Standard
+2025-03-30,NE04,Neighbourhood,North,No,24.0,32.46,5834.0,Standard
+2025-04-06,NE04,Neighbourhood,North,No,30.0,30.06,6791.0,Standard
+2025-04-13,NE04,Neighbourhood,North,Yes,22.0,30.0,6596.0,Light
+2025-04-20,NE04,Neighbourhood,North,No,23.0,30.0,5631.0,Light
+2025-04-27,NE04,Neighbourhood,North,No,38.0,30.8,8604.0,Heavy
+2025-05-04,NE04,Neighbourhood,North,Yes,25.0,31.32,6929.0,Standard
+2025-05-11,NE04,Neighbourhood,North,No,37.0,30.5,7752.0,Heavy
+2025-05-18,NE04,Neighbourhood,North,Yes,39.39110820878257,32.5,10025.0,Heavy
+2025-01-05,NE05,Neighbourhood,South,No,32.648934547073765,32.0,7370.0,Standard
+2025-01-12,NE05,Neighbourhood,South,No,30.0,31.0,7431.0,Standard
+2025-01-19,NE05,Neighbourhood,South,Yes,19.404003555168536,30.0,7269.0,Light
+2025-01-26,NE05,Neighbourhood,South,No,20.0,31.5,6065.0,Light
+2025-02-02,NE05,Neighbourhood,South,No,28.0,32.0,7634.0,Standard
+2025-02-09,NE05,Neighbourhood,South,No,24.0,31.84,7192.0,Standard
+2025-02-16,NE05,Neighbourhood,South,Yes,38.0,29.62,9036.0,Heavy
+2025-02-23,NE05,Neighbourhood,South,No,38.0,30.5,7873.0,Heavy
+2025-03-02,NE05,Neighbourhood,South,No,20.897201692111093,29.0,6835.0,Light
+2025-03-09,NE05,Neighbourhood,South,No,30.62009716566034,31.17,7147.0,Standard
+2025-03-16,NE05,Neighbourhood,South,No,20.77235672958627,33.5,5775.0,Light
+2025-03-23,NE05,Neighbourhood,South,Yes,30.0,29.5,7299.0,Standard
+2025-03-30,NE05,Neighbourhood,South,No,30.0,30.33,6208.0,Standard
+2025-04-06,NE05,Neighbourhood,South,No,38.0,31.04,6788.0,Heavy
+2025-04-13,NE05,Neighbourhood,South,Yes,22.0,33.12,5573.0,Light
+2025-04-20,NE05,Neighbourhood,South,No,25.0,30.0,5893.0,Standard
+2025-04-27,NE05,Neighbourhood,South,No,20.0,32.5,5573.0,Light
+2025-05-04,NE05,Neighbourhood,South,No,26.0,31.5,6780.0,Standard
+2025-05-11,NE05,Neighbourhood,South,No,25.43672227471159,29.0,6859.0,Standard
+2025-05-18,NE05,Neighbourhood,South,No,30.0,30.0,7548.0,Standard
+2025-01-05,CA01,Campus,East,No,30.0,27.2,7603.0,Standard
+2025-01-12,CA01,Campus,East,No,26.0,29.32,6692.0,Standard
+2025-01-19,CA01,Campus,East,No,30.0,28.41,7594.0,Standard
+2025-01-26,CA01,Campus,East,Yes,37.0,26.5,8517.0,Heavy
+2025-02-02,CA01,Campus,East,Yes,21.0,30.24,6483.0,Light
+2025-02-09,CA01,Campus,East,No,25.0,29.5,5567.0,Standard
+2025-02-16,CA01,Campus,East,No,24.0,29.0,6239.0,Standard
+2025-02-23,CA01,Campus,East,Yes,16.839377076533392,29.0,6628.0,Light
+2025-03-02,CA01,Campus,East,No,30.0,27.98,6897.0,Standard
+2025-03-09,CA01,Campus,East,No,30.0,29.37,7005.0,Standard
+2025-03-16,CA01,Campus,East,No,22.0,29.0,5937.0,Light
+2025-03-23,CA01,Campus,East,Yes,26.0,29.17,7684.0,Standard
+2025-03-30,CA01,Campus,East,No,28.0,29.0,6386.0,Standard
+2025-04-06,CA01,Campus,East,No,30.0,26.75,6711.0,Standard
+2025-04-13,CA01,Campus,East,No,22.249815253509762,30.4,5141.0,Light
+2025-04-20,CA01,Campus,East,Yes,24.868991336387463,29.66,6961.0,Standard
+2025-04-27,CA01,Campus,East,No,39.31566287667378,28.5,8686.0,Heavy
+2025-05-04,CA01,Campus,East,No,24.0,29.54,6931.0,Standard
+2025-05-11,CA01,Campus,East,No,40.0,28.06,8128.0,Heavy
+2025-05-18,CA01,Campus,East,No,38.0,29.87,8569.0,Heavy
+2025-01-05,CA02,Campus,West,No,30.0,29.79,5909.0,Standard
+2025-01-12,CA02,Campus,West,Yes,30.0,28.5,8234.0,Standard
+2025-01-19,CA02,Campus,West,Yes,22.898832228674245,29.32,7007.0,Light
+2025-01-26,CA02,Campus,West,No,29.0,29.34,6682.0,Standard
+2025-02-02,CA02,Campus,West,Yes,28.683683596774426,28.5,7658.0,Standard
+2025-02-09,CA02,Campus,West,Yes,24.0,26.62,6653.0,Standard
+2025-02-16,CA02,Campus,West,No,16.0,29.5,4920.0,Light
+2025-02-23,CA02,Campus,West,No,26.0,30.0,6999.0,Standard
+2025-03-02,CA02,Campus,West,Yes,19.614776718109667,28.5,5969.0,Light
+2025-03-09,CA02,Campus,West,Yes,37.0,29.5,7494.0,Heavy
+2025-03-16,CA02,Campus,West,No,30.0,27.5,7071.0,Standard
+2025-03-23,CA02,Campus,West,No,38.0,28.0,7656.0,Heavy
+2025-03-30,CA02,Campus,West,No,19.0,27.86,5794.0,Light
+2025-04-06,CA02,Campus,West,Yes,38.0,28.5,7167.0,Heavy
+2025-04-13,CA02,Campus,West,Yes,38.0,28.0,7936.0,Heavy
+2025-04-20,CA02,Campus,West,Yes,40.0,30.0,8380.0,Heavy
+2025-04-27,CA02,Campus,West,No,23.313234299849796,29.17,5456.0,Standard
+2025-05-04,CA02,Campus,West,Yes,30.0,29.39,7726.0,Standard
+2025-05-11,CA02,Campus,West,No,30.0,29.5,6513.0,Standard
+2025-05-18,CA02,Campus,West,Yes,20.87561483185593,30.5,6231.0,Light
+2025-01-05,CA03,Campus,North,No,24.0,29.0,6337.0,Standard
+2025-01-12,CA03,Campus,North,No,20.0,27.69,5215.0,Light
+2025-01-19,CA03,Campus,North,No,38.0,29.37,8119.0,Heavy
+2025-01-26,CA03,Campus,North,No,25.0,27.0,6511.0,Standard
+2025-02-02,CA03,Campus,North,Yes,38.0,28.5,9639.0,Heavy
+2025-02-09,CA03,Campus,North,No,20.0,28.7,6487.0,Light
+2025-02-16,CA03,Campus,North,No,18.226226789302032,29.5,6248.0,Light
+2025-02-23,CA03,Campus,North,Yes,24.0,30.47,7324.0,Standard
+2025-03-02,CA03,Campus,North,No,38.0,28.5,8594.0,Heavy
+2025-03-09,CA03,Campus,North,No,28.32529101643888,29.5,6601.0,Standard
+2025-03-16,CA03,Campus,North,No,38.0,25.34,8311.0,Heavy
+2025-03-23,CA03,Campus,North,Yes,38.0,28.96,8979.0,Heavy
+2025-03-30,CA03,Campus,North,Yes,20.0,28.38,5959.0,Light
+2025-04-06,CA03,Campus,North,No,37.92683332650969,29.48,8121.0,Heavy
+2025-04-13,CA03,Campus,North,No,20.0,28.0,5443.0,Light
+2025-04-20,CA03,Campus,North,No,28.610494369536962,28.0,6647.0,Standard
+2025-04-27,CA03,Campus,North,Yes,18.439494378264772,27.5,5583.0,Light
+2025-05-04,CA03,Campus,North,Yes,29.0,31.0,7353.0,Standard
+2025-05-11,CA03,Campus,North,No,25.0,28.56,6293.0,Standard
+2025-05-18,CA03,Campus,North,Yes,26.0,28.0,7806.0,Standard
+2025-01-05,CA04,Campus,South,Yes,38.0,29.5,8990.0,Heavy
+2025-01-12,CA04,Campus,South,No,39.26300444205748,28.0,7573.0,Heavy
+2025-01-19,CA04,Campus,South,No,37.19492715382163,28.51,7869.0,Heavy
+2025-01-26,CA04,Campus,South,Yes,20.0,27.82,6373.0,Light
+2025-02-02,CA04,Campus,South,No,38.0,29.0,9083.0,Heavy
+2025-02-09,CA04,Campus,South,Yes,40.0,28.0,8821.0,Heavy
+2025-02-16,CA04,Campus,South,No,24.0,27.0,5810.0,Standard
+2025-02-23,CA04,Campus,South,Yes,37.0,28.5,9072.0,Heavy
+2025-03-02,CA04,Campus,South,No,38.0,29.3,7821.0,Heavy
+2025-03-09,CA04,Campus,South,Yes,38.0,28.67,8111.0,Heavy
+2025-03-16,CA04,Campus,South,No,31.0,30.0,6875.0,Standard
+2025-03-23,CA04,Campus,South,No,30.0,29.18,6774.0,Standard
+2025-03-30,CA04,Campus,South,No,38.0,27.5,7637.0,Heavy
+2025-04-06,CA04,Campus,South,No,31.0,28.28,6080.0,Standard
+2025-04-13,CA04,Campus,South,No,24.0,27.5,5248.0,Standard
+2025-04-20,CA04,Campus,South,No,20.0,29.0,5639.0,Light
+2025-04-27,CA04,Campus,South,No,30.0,27.5,7016.0,Standard
+2025-05-04,CA04,Campus,South,No,29.0,29.5,7060.0,Standard
+2025-05-11,CA04,Campus,South,No,30.812383542091023,28.0,6712.0,Standard
+2025-05-18,CA04,Campus,South,No,36.0,27.5,7898.0,Heavy
+2025-01-05,CA05,Campus,East,Yes,39.0,27.5,9126.0,Heavy
+2025-01-12,CA05,Campus,East,No,38.95696850764484,29.21,8357.0,Heavy
+2025-01-19,CA05,Campus,East,No,32.0,26.66,7173.0,Standard
+2025-01-26,CA05,Campus,East,No,23.0,27.01,6136.0,Light
+2025-02-02,CA05,Campus,East,No,20.0,27.5,6608.0,Light
+2025-02-09,CA05,Campus,East,No,38.0,28.5,8512.0,Heavy
+2025-02-16,CA05,Campus,East,No,39.0,28.5,9374.0,Heavy
+2025-02-23,CA05,Campus,East,No,37.0,28.8,7952.0,Heavy
+2025-03-02,CA05,Campus,East,No,30.0,28.0,7229.0,Standard
+2025-03-09,CA05,Campus,East,No,38.0,29.5,7973.0,Heavy
+2025-03-16,CA05,Campus,East,Yes,23.0,29.0,6751.0,Light
+2025-03-23,CA05,Campus,East,No,40.0807884560457,27.84,8204.0,Heavy
+2025-03-30,CA05,Campus,East,No,24.0,28.0,5350.0,Standard
+2025-04-06,CA05,Campus,East,Yes,39.49801734990977,27.0,8523.0,Heavy
+2025-04-13,CA05,Campus,East,Yes,25.0,30.5,6340.0,Standard
+2025-04-20,CA05,Campus,East,No,24.68595487664481,28.81,6695.0,Standard
+2025-04-27,CA05,Campus,East,No,24.0,27.5,6693.0,Standard
+2025-05-04,CA05,Campus,East,No,37.0,28.0,9156.0,Heavy
+2025-05-11,CA05,Campus,East,No,29.318771854697264,28.05,6889.0,Standard
+2025-05-18,CA05,Campus,East,No,37.48210706696144,29.0,8194.0,Heavy
+2025-01-05,SH01,Shopping centre,West,Yes,38.0,34.5,9630.0,Heavy
+2025-01-12,SH01,Shopping centre,West,No,17.0,31.79,6029.0,Light
+2025-01-19,SH01,Shopping centre,West,No,39.0,34.0,8895.0,Heavy
+2025-01-26,SH01,Shopping centre,West,No,37.0,33.0,8987.0,Heavy
+2025-02-02,SH01,Shopping centre,West,No,38.0,34.5,9194.0,Heavy
+2025-02-09,SH01,Shopping centre,West,Yes,36.0,33.0,10381.0,Heavy
+2025-02-16,SH01,Shopping centre,West,No,37.0,33.95,8651.0,Heavy
+2025-02-23,SH01,Shopping centre,West,No,38.0,35.0,9864.0,Heavy
+2025-03-02,SH01,Shopping centre,West,No,25.173635135562357,34.0,7162.0,Standard
+2025-03-09,SH01,Shopping centre,West,No,30.0,33.5,7227.0,Standard
+2025-03-16,SH01,Shopping centre,West,Yes,28.805676695482664,34.68,9708.0,Standard
+2025-03-23,SH01,Shopping centre,West,Yes,38.0,32.5,10164.0,Heavy
+2025-03-30,SH01,Shopping centre,West,No,40.0,35.5,8746.0,Heavy
+2025-04-06,SH01,Shopping centre,West,No,39.20795934042809,35.48,8564.0,Heavy
+2025-04-13,SH01,Shopping centre,West,No,40.0,34.06,8853.0,Heavy
+2025-04-20,SH01,Shopping centre,West,No,39.0,34.5,8419.0,Heavy
+2025-04-27,SH01,Shopping centre,West,No,36.0,34.41,8144.0,Heavy
+2025-05-04,SH01,Shopping centre,West,Yes,41.0,34.0,9302.0,Heavy
+2025-05-11,SH01,Shopping centre,West,No,33.58590026661409,34.0,8257.0,Heavy
+2025-05-18,SH01,Shopping centre,West,Yes,23.78061547491954,35.5,7471.0,Standard
+2025-01-05,SH02,Shopping centre,North,No,24.12658862285759,31.5,7188.0,Standard
+2025-01-12,SH02,Shopping centre,North,No,24.64459274667821,33.24,8196.0,Standard
+2025-01-19,SH02,Shopping centre,North,No,39.47489970728152,32.0,9647.0,Heavy
+2025-01-26,SH02,Shopping centre,North,No,38.0,33.5,9066.0,Heavy
+2025-02-02,SH02,Shopping centre,North,No,19.813714329735003,34.0,6863.0,Light
+2025-02-09,SH02,Shopping centre,North,No,38.0,32.5,9409.0,Heavy
+2025-02-16,SH02,Shopping centre,North,No,29.835134186952203,33.0,7383.0,Standard
+2025-02-23,SH02,Shopping centre,North,No,29.0,32.5,7988.0,Standard
+2025-03-02,SH02,Shopping centre,North,Yes,24.0,32.17,8156.0,Standard
+2025-03-09,SH02,Shopping centre,North,No,39.0,34.0,9100.0,Heavy
+2025-03-16,SH02,Shopping centre,North,Yes,19.61845659147849,31.82,6857.0,Light
+2025-03-23,SH02,Shopping centre,North,No,37.249071316442006,34.0,8265.0,Heavy
+2025-03-30,SH02,Shopping centre,North,No,23.0,33.7,6918.0,Light
+2025-04-06,SH02,Shopping centre,North,No,30.0,33.5,8277.0,Standard
+2025-04-13,SH02,Shopping centre,North,No,19.474907532411997,35.5,6474.0,Light
+2025-04-20,SH02,Shopping centre,North,No,39.35816231913271,33.37,8605.0,Heavy
+2025-04-27,SH02,Shopping centre,North,No,20.0,33.5,5958.0,Light
+2025-05-04,SH02,Shopping centre,North,No,37.0,35.5,9224.0,Heavy
+2025-05-11,SH02,Shopping centre,North,No,19.62961200215944,34.5,6852.0,Light
+2025-05-18,SH02,Shopping centre,North,No,38.0,34.88,9584.0,Heavy
+2025-01-05,SH03,Shopping centre,South,No,39.29764744208377,33.5,9251.0,Heavy
+2025-01-12,SH03,Shopping centre,South,No,38.0,34.0,9378.0,Heavy
+2025-01-19,SH03,Shopping centre,South,No,30.0,34.0,8265.0,Standard
+2025-01-26,SH03,Shopping centre,South,No,24.368560185922437,32.0,8267.0,Standard
+2025-02-02,SH03,Shopping centre,South,No,38.0,33.0,9877.0,Heavy
+2025-02-09,SH03,Shopping centre,South,No,38.0,35.0,8996.0,Heavy
+2025-02-16,SH03,Shopping centre,South,No,40.0,34.0,9915.0,Heavy
+2025-02-23,SH03,Shopping centre,South,Yes,30.0,35.01,8610.0,Standard
+2025-03-02,SH03,Shopping centre,South,No,25.0,35.0,7027.0,Standard
+2025-03-09,SH03,Shopping centre,South,No,20.0,33.0,6613.0,Light
+2025-03-16,SH03,Shopping centre,South,No,21.992644067568616,35.75,6458.0,Light
+2025-03-23,SH03,Shopping centre,South,No,20.0,35.5,6458.0,Light
+2025-03-30,SH03,Shopping centre,South,No,37.0,33.5,8214.0,Heavy
+2025-04-06,SH03,Shopping centre,South,No,38.0,32.0,9332.0,Heavy
+2025-04-13,SH03,Shopping centre,South,Yes,30.0,33.5,8368.0,Standard
+2025-04-20,SH03,Shopping centre,South,No,20.0,32.91,6258.0,Light
+2025-04-27,SH03,Shopping centre,South,Yes,22.071108404215046,32.5,6987.0,Light
+2025-05-04,SH03,Shopping centre,South,No,30.0,34.5,8007.0,Standard
+2025-05-11,SH03,Shopping centre,South,No,24.0,36.5,7051.0,Standard
+2025-05-18,SH03,Shopping centre,South,No,30.0,34.5,8330.0,Standard
+2025-01-05,SH04,Shopping centre,East,No,39.0,35.5,10165.0,Heavy
+2025-01-12,SH04,Shopping centre,East,Yes,40.0,34.21,10765.0,Heavy
+2025-01-19,SH04,Shopping centre,East,No,37.0,36.0,10038.0,Heavy
+2025-01-26,SH04,Shopping centre,East,No,29.48237838171513,35.0,7534.0,Standard
+2025-02-02,SH04,Shopping centre,East,No,38.0,34.5,9789.0,Heavy
+2025-02-09,SH04,Shopping centre,East,Yes,22.0,34.93,8115.0,Light
+2025-02-16,SH04,Shopping centre,East,No,38.0,34.0,8912.0,Heavy
+2025-02-23,SH04,Shopping centre,East,No,24.0,33.06,7470.0,Standard
+2025-03-02,SH04,Shopping centre,East,No,39.21528524054906,35.26,9595.0,Heavy
+2025-03-09,SH04,Shopping centre,East,No,31.771840926047954,35.5,8166.0,Standard
+2025-03-16,SH04,Shopping centre,East,No,37.0,34.5,8685.0,Heavy
+2025-03-23,SH04,Shopping centre,East,Yes,23.79556626438707,33.0,8113.0,Standard
+2025-03-30,SH04,Shopping centre,East,Yes,25.0,34.5,7066.0,Standard
+2025-04-06,SH04,Shopping centre,East,Yes,38.0,34.65,10068.0,Heavy
+2025-04-13,SH04,Shopping centre,East,No,24.0,33.38,6906.0,Standard
+2025-04-20,SH04,Shopping centre,East,No,36.0,32.5,8517.0,Heavy
+2025-04-27,SH04,Shopping centre,East,No,32.60661434560655,34.0,7454.0,Standard
+2025-05-04,SH04,Shopping centre,East,No,21.223661486998477,36.5,7059.0,Light
+2025-05-11,SH04,Shopping centre,East,No,39.88146347824907,34.11,9066.0,Heavy
+2025-05-18,SH04,Shopping centre,East,No,28.0,35.13,7990.0,Standard
+2025-01-05,SH05,Shopping centre,West,No,37.0,33.31,8615.0,Heavy
+2025-01-12,SH05,Shopping centre,West,No,23.0,35.0,6421.0,Light
+2025-01-19,SH05,Shopping centre,West,No,30.0,36.0,7825.0,Standard
+2025-01-26,SH05,Shopping centre,West,No,30.0,32.0,7903.0,Standard
+2025-02-02,SH05,Shopping centre,West,Yes,36.376924688191465,33.0,10470.0,Heavy
+2025-02-09,SH05,Shopping centre,West,Yes,37.652205478501834,33.31,9813.0,Heavy
+2025-02-16,SH05,Shopping centre,West,Yes,31.0,34.68,8941.0,Standard
+2025-02-23,SH05,Shopping centre,West,No,39.569666916336736,29.84,9431.0,Heavy
+2025-03-02,SH05,Shopping centre,West,No,19.0,36.0,6963.0,Light
+2025-03-09,SH05,Shopping centre,West,Yes,38.0,34.5,9469.0,Heavy
+2025-03-16,SH05,Shopping centre,West,Yes,22.318657475401604,33.5,7168.0,Light
+2025-03-23,SH05,Shopping centre,West,No,38.406791144325915,34.0,8915.0,Heavy
+2025-03-30,SH05,Shopping centre,West,No,40.59504391249024,34.0,8695.0,Heavy
+2025-04-06,SH05,Shopping centre,West,Yes,29.0,34.62,8127.0,Standard
+2025-04-13,SH05,Shopping centre,West,No,29.560202497166348,33.01,7228.0,Standard
+2025-04-20,SH05,Shopping centre,West,Yes,38.0,34.13,9318.0,Heavy
+2025-04-27,SH05,Shopping centre,West,Yes,21.0,33.5,7149.0,Light
+2025-05-04,SH05,Shopping centre,West,No,20.0,36.0,6468.0,Light
+2025-05-11,SH05,Shopping centre,West,Yes,28.876357011045627,34.46,9051.0,Standard
+2025-05-18,SH05,Shopping centre,West,Yes,20.0,36.5,6976.0,Light
