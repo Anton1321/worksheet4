@@ -21,16 +21,24 @@ This repository is the starter repository for the week 4 exploratory data analys
 
 ## Analysis Notes
 
-Replace this section with your own notes after working through the notebook.
+### Dataset
+The cleaned dataset (`data/clean/store_week_clean.csv`) contains 400 rows representing 20 stores tracked over 20 weeks (starting January 2025). Each row is one store in one week. Key numeric variables are `total_hours`, `avg_hourly_pay`, and `weekly_sales`. Categorical variables include `store_type`, `region`, `promotion_flag`, and `staffing_model`.
 
-Suggested headings:
+### Distributions
+- `total_hours` is spread out with no single clear peak, reflecting different staffing levels across store types.
+- `avg_hourly_pay` is slightly right-skewed, with most values clustered together but a few higher-paying outliers.
+- `weekly_sales` is right-skewed and bunched — most stores earn in a similar range, but some earn considerably more.
 
-- What files are in the repository?
-- What does the dataset appear to describe?
-- Which variables did you examine first?
-- What distributional patterns stood out?
-- What did the scatter plots and correlations suggest?
-- What changed when you adjusted the scale or plotted by group?
+### Categorical Composition
+- `store_type` and `region` are perfectly balanced (100 observations each), since the data is a fixed panel.
+- `promotion_flag` shows that promotions are relatively rare compared to non-promotion weeks.
+
+### Scatter Plots and Correlations
+- There is a strong positive relationship between `total_hours` and `weekly_sales` (Pearson = 0.747, Spearman = 0.737). More hours worked corresponds to higher weekly sales.
+
+### Scale and Group Analysis
+- Using a log scale on the y-axis revealed that the positive hours–sales relationship holds across the full range of sales, not just among high-earning outliers.
+- Splitting by group showed that CBD stores earn more sales for the same hours worked than Campus or Neighbourhood stores. The hours–sales correlation is strong across all regions but weaker in the East (0.67) compared to North (0.81), suggesting other factors matter more in some regions.
 
 ## Git Reminder
 
